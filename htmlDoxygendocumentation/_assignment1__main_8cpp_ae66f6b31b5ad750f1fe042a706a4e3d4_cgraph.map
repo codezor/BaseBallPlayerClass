@@ -1,0 +1,4 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$class_player.html#a693ed7485882d8a9aad87f1a29694572" title="Reads one line of Player information from input file. " alt="" coords="111,5,229,32"/>
+<area shape="rect" id="node3" href="$class_player.html#a432d18e2bc96c83b105b279a46877f3d" title="Writes Player information to output file. " alt="" coords="104,56,236,83"/>
+</map>
